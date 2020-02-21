@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="cfg" type="Access Transformers File" />
       <mapping pattern="Positive Numbers" type="HTML" />
       <mapping pattern="ideas" type="PLAIN_TEXT" />
       <mapping ext="wb" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="vs" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="Access Transformers File" />
     </extensionMap>
   </component>
 </application>
